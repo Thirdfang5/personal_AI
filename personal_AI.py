@@ -14,6 +14,7 @@ import wikipedia
 import subprocess
 import config
 
+# config is a local file not a libary
 #pyttsx3 is a python text to speech libary
 
 try:
