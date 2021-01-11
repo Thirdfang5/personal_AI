@@ -1,3 +1,7 @@
+# Developed by Mohammed Ali Ansar
+# Used python 3.8.5
+# Mac OS
+
 import speech_recognition as sr
 from time import ctime
 import time
