@@ -1,6 +1,6 @@
 # Developed by Mohammed Ali Ansar
 # Used python 3.8.5
-# Mac OS Cataline version 10.15.7
+# Mac OS Catalina version 10.15.7
 
 import speech_recognition as sr
 from time import ctime
